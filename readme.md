@@ -1,5 +1,5 @@
-git curso
+#curso de GIT
 
-texto texto texto texto texto
-
-gostou do curso? venha venha venha
+Este é um repositorio teste para aprender os comando do git
+quer aprender também? 
+acesse [willianjusten.com.br](http://willianjusten.com.br)
